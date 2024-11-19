@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Search products_main-cart-icon hover-effect</name>
+   <tag></tag>
+   <elementGuidId>f368b6c6-45c7-4265-9076-17ca97f3374b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/header/div/nav/div/div/div[3]/div/ul/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b6494e23-720e-4f3c-b4d5-b8b3b98cee83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>d78cdb11-d4e3-4dfa-b70a-2e01feb8e94c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>3a081b53-feb6-4dcb-925e-d887cb79faa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-cart-icon hover-effect</value>
+      <webElementGuid>ea98ad5a-7bd4-46f7-b4df-b25ff029c306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/header[@class=&quot;header&quot;]/div[@class=&quot;bottom-header&quot;]/nav[@class=&quot;navbar navbar-expand-lg&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row w-100 d-flex justify-content-between&quot;]/div[@class=&quot;bottom-header-area col-4  col-lg-4 pl-0 pl-xl-5 justify-content-end&quot;]/div[@class=&quot;heart-icon&quot;]/ul[@class=&quot;m-0 p-0 pl-0&quot;]/div[@class=&quot;d-inline-flex header-buttons&quot;]/ul[@class=&quot;mb-0  d-inline-flex sidebar-cart-items p-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;main-cart-icon hover-effect&quot;]</value>
+      <webElementGuid>6b5631e1-6e4e-49c8-8518-eb2d058e87ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/header/div/nav/div/div/div[3]/div/ul/div/ul/li[2]/a</value>
+      <webElementGuid>75c5d5de-6de9-4290-8a87-8b627abaf052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search products'])[2]/following::a[2]</value>
+      <webElementGuid>3cccc8f0-3313-44d5-9617-02a7043ed8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search products'])[1]/following::a[2]</value>
+      <webElementGuid>6bd177da-a5e6-4de0-997c-996892334662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EARN 50 POINTS'])[1]/preceding::a[2]</value>
+      <webElementGuid>80f1c6f1-9799-47c4-8a87-f01182d47a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up and get 50 points for free'])[1]/preceding::a[2]</value>
+      <webElementGuid>fe79400c-97d3-496e-a99b-c69f16e481d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login')]</value>
+      <webElementGuid>3673f68c-8f08-44ea-976f-d9d9dbb2b608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>c0852987-5c42-4b75-8f18-eecdfe5aa18c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login']</value>
+      <webElementGuid>7ac925b3-3fff-4359-81df-714acf9ab47a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

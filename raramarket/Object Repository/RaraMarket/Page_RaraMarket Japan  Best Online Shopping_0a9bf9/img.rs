@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>5c155d63-ae94-4e0c-b2a7-ef2826aec5f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Picture of Sweet &amp; Nutty Delights&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[5]/div[2]/div/div[2]/div/div/div[2]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Picture of Sweet &amp; Nutty Delights&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>26f5135b-ad86-4cb3-8bbf-74930217c8b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/thumbs/66ed60b0ac6ce351eaf1aa9d_sweet-nutty-delights_415.jpeg</value>
+      <webElementGuid>e2a486b0-9751-4886-b667-b773960b186d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Picture of Sweet &amp; Nutty Delights</value>
+      <webElementGuid>2b6605d1-e3b3-47fc-a82f-2efc88ada7d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;page home-page custom-container d-flex flex-column mt-0&quot;]/div[@class=&quot;best-seller&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product-items&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;bs-item&quot;]/div[@class=&quot;inner&quot;]/div[@class=&quot;image&quot;]/a[1]/img[1]</value>
+      <webElementGuid>0c61bbb4-0a28-44fe-9c4d-ea150477af25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[5]/div[2]/div/div[2]/div/div/div[2]/div/a/img</value>
+      <webElementGuid>cf76f7d9-bef7-42ca-b4e3-f58e5a8ea5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Picture of Sweet &amp; Nutty Delights']</value>
+      <webElementGuid>b5a7a57e-4af5-4854-94ff-bfc46fee829d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/a/img</value>
+      <webElementGuid>46b2c0a4-8d65-41af-b1ec-18e394bb9b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/thumbs/66ed60b0ac6ce351eaf1aa9d_sweet-nutty-delights_415.jpeg' and @alt = 'Picture of Sweet &amp; Nutty Delights']</value>
+      <webElementGuid>17d6cc82-e4b3-41e3-9dae-646f7d741d78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/RaraMarket/Page_Register  Rara Market Japan/iframe__a-8ktridki9qh2",
+      "brokenLocator": "//iframe[@name\u003d\u0027a-8ktridki9qh2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/RaraMarket/Page_Register  Rara Market Japan/iframe__a-8ktridki9qh2_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/RaraMarket/Page_Register  Rara Market Japan/iframe__a-ea9wlj8qeexe",
+      "brokenLocator": "//iframe[@name\u003d\u0027a-ea9wlj8qeexe\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/RaraMarket/Page_Register  Rara Market Japan/iframe__a-ea9wlj8qeexe_position.png"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_traffic lights_rc-imageselect-checkbox</name>
+   <tag></tag>
+   <elementGuidId>36ecb1ae-36d1-478f-a214-f46c6d14e053</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-imageselect-target']/table/tbody/tr[3]/td[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tr:nth-child(3) > td:nth-child(2)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96cb43b1-889a-4bcb-ade3-4296ef7a1d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-imageselect-checkbox</value>
+      <webElementGuid>3b2a43d3-1825-466a-9f74-6ee0a8ca5d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-imageselect-target&quot;)/table[@class=&quot;rc-imageselect-table-44&quot;]/tbody[1]/tr[3]/td[@class=&quot;rc-imageselect-tile rc-imageselect-tileselected&quot;]/div[@class=&quot;rc-image-tile-target&quot;]/div[@class=&quot;rc-imageselect-checkbox&quot;]</value>
+      <webElementGuid>eddbbbec-42ae-4980-8723-5bc5e4b8d52e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/RaraMarket/Page_Register  Rara Market Japan/iframe_html1body1div4div4iframe1_c-8ktridki9qh2</value>
+      <webElementGuid>a799d81f-f3e8-4cdd-b977-de7c333a52ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-imageselect-target']/table/tbody/tr[3]/td[2]/div/div[2]</value>
+      <webElementGuid>2c9e8961-9d8b-469b-9a37-f6118a6c6349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/div/div[2]</value>
+      <webElementGuid>c69a3b77-5344-4c94-8849-5dac59cc6faa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
